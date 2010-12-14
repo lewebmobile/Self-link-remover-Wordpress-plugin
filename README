@@ -1,0 +1,2 @@
+Bill Stoddard posted a Wordpress plugin to remove self-links from Wordpress generated menus http://clockinfo.com/posts/168
+Unfortunately, the code for that plugin was mangled by Wordpress; this is a cleaned up version of that code.
